@@ -21,7 +21,6 @@ function db_connect()
 
     $dbServer = "utbweb.its.ltu.se:3308";    // Servername:portnumber
     $dbUser = "oskhul_5";           // Database username
-    $dbPass = "6Z7C5QRF";               // Database password
     $dbName = "D0019E_V17_oskhul_5";       // Name of the database
 
     // Declared as static so it keeps its value between calls to the method
