@@ -1,7 +1,6 @@
 <?php
     $db_user = "oskhul_5"; //root
     $db_name = "D0019E_V17_oskhul_5"; //cms
-    $db_pass = "6Z7C5QRF"; //
     $db_server = "utbweb.its.ltu.se:3308"; //localhost
 
     $connection = mysqli_connect($db_server, $db_user, $db_pass, $db_name); //ändra enligt DB
